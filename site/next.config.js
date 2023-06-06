@@ -4,8 +4,8 @@ const nextConfig = {
   env: {
     name: 'Pride Solutions Derby Registry',
     description: 'The official store for Pride Solutions Derby workspaces.',
-    icon: 'https://github.com/Pride-Solutions-Derby/kasm/1.0/kasm_logo.svg',
-    listUrl: 'https://github.com/Pride-Solutions-Derby/kasm/',
+    icon: 'https://pride-solutions-derby.github.io/kasm/1.0/kasm_logo.svg',
+    listUrl: 'https://pride-solutions-derby.github.io/kasm/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
