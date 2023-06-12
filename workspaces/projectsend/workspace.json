@@ -2,7 +2,7 @@
   "friendly_name": "Project Send",
   "image_src": "project-send.png",
   "description": "Project Send",
-  "name": "lscr.io/linuxserver/projectsend:latest",
+  "name": "projectsend:psdl",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
