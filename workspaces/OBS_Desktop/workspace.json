@@ -1,0 +1,19 @@
+{
+  "friendly_name": "OBS Studio",
+  "image_src": "blob:https://pride-solutions-derby.github.io/3b3d6dd0-ae21-492a-81ab-390720b62ade",
+  "description": null,
+  "name": "ubuntu-obs:psdl",
+  "cores": 4,
+  "memory": 4096,
+  "gpu_count": 1,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [Video Capture],
+  "require_gpu": true,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+"uncompressed_size_mb": 5120
+}
