@@ -1,6 +1,6 @@
 {
   "friendly_name": "OBS Studio",
-  "image_src": "blob:https://pride-solutions-derby.github.io/3b3d6dd0-ae21-492a-81ab-390720b62ade",
+  "image_src": "obs-logo.png",
   "description": null,
   "name": "ubuntu-obs:psdl",
   "cores": 4,
